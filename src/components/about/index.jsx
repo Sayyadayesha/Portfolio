@@ -10,7 +10,7 @@ const AboutDetails = () => {
                 <ItemLayout className={' col-span-full lg:col-span-8 row-span-2 flex-col items-start'}>
                     <div className=" ">
                         <h2 className="text-xl:md:text-2xl text-left w-full capitalize">
-                            "Architect of Stellar Vision"
+                            An Architect of Stellar Vision
 
                         </h2>
                         <p className="font-light text-xs sm:text-sm md:text-base ">As an architect of stellar vision,

@@ -19,10 +19,10 @@ export default function Contact() {
         Summon  The Cosmic Sage 
         </h1>
 <p className="text-center font-light text-sm text-base" >
-Ready to connect with the cosmos? wish to explore new dimensions of collaboration
+&quot;Ready to connect with the cosmos? wish to explore new dimensions of collaboration
  feel free to reach out. I am always open to cosmic conversations creative ideas
   and opportunities that expand the universe of possibilities.
- Lets create something stellar together—drop me a message and let the cosmic energy flow
+ Lets create something stellar together—drop me a message and let the cosmic energy flow&quot;
 </p>
       </div>
     <Form/>
