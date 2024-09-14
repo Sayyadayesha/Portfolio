@@ -13,13 +13,13 @@ const AboutDetails = () => {
                             "Architect of Stellar Vision"
 
                         </h2>
-                        <p className="font-light text-xs sm:text-sm md:text-base ">"As an architect of stellar vision,
+                        <p className="font-light text-xs sm:text-sm md:text-base ">As an architect of stellar vision,
                             I am a passionate software engineering student with a boundless curiosity for exploring the infinite possibilities in technology.
                             With a rooted foundation in languages like Java, JavaScript, and React,
                             and experience in cutting-edge projects like AI-based medical diagnosis systems and e-commerce portals,
                             I craft solutions that aim to push boundaries. My work bridges the creative with the technical,
                             combining front-end innovation with back-end efficiency. Whether building dynamic web applications
-                            or diving into new technologies, I bring a cosmic perspective—always aiming for brilliance and beyond."</p>
+                            or diving into new technologies, I bring a cosmic perspective—always aiming for brilliance and beyond.</p>
                     </div>
                 </ItemLayout>
 
