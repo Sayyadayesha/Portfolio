@@ -13,7 +13,7 @@ const AboutDetails = () => {
                             An Architect of Stellar Vision
 
                         </h2>
-                        <p className="font-light text-xs sm:text-sm md:text-base ">As an architect of stellar vision,
+                        <p className="font-light text-xs sm:text-sm md:text-base ">
                             I am a passionate software engineering student with a boundless curiosity for exploring the infinite possibilities in technology.
                             With a rooted foundation in languages like Java, JavaScript, and React,
                             and experience in cutting-edge projects like AI-based medical diagnosis systems and e-commerce portals,
@@ -68,6 +68,16 @@ const AboutDetails = () => {
 
                 <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
                     <img className='w-full h-auto ' src="https://github-readme-stats.vercel.app/api/pin/?username=Sayyadayesha&title_color=FEFE5B&repo=MERN-Social-Network&theme=transparent&hide_border=true&background=EB545400&border=EB545400"
+                        alt="Ayesha Pasha" loading="lazy" />
+
+                </ItemLayout>
+                <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
+                    <img className='w-full h-auto ' src="https://github-readme-stats.vercel.app/api/pin/?username=Sayyadayesha&title_color=FEFE5B&repo=Portfolio&theme=transparent&hide_border=true&background=EB545400&border=EB545400"
+                        alt="Ayesha Pasha" loading="lazy" />
+
+                </ItemLayout>
+                <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
+                    <img className='w-full h-auto ' src="https://github-readme-stats.vercel.app/api/pin/?username=Sayyadayesha&title_color=FEFE5B&repo=amazon-project-v1&theme=transparent&hide_border=true&background=EB545400&border=EB545400"
                         alt="Ayesha Pasha" loading="lazy" />
 
                 </ItemLayout>
